@@ -22,5 +22,6 @@ Assignment 6- [University Admission Prediction: Logistic Regression Modeling Bas
 Assignment 7- [Optimizing Restaurant Expansion: Linear Regression Analysis for Profit Prediction in New Cities](C1_W2_Linear_Regression.ipynb)
   - Summary: As the CEO, a linear regression approach was employed to analyze profits and populations of existing restaurant locations. Utilizing this model, predictions were made for potential cities, enabling strategic decision-making for restaurant expansion by identifying locations likely to yield higher profits based on population data.Summary: As the CEO, a linear regression approach was employed to analyze profits and populations of existing restaurant locations. Utilizing this model, predictions were made for potential cities, enabling strategic decision-making for restaurant expansion by identifying locations likely to yield higher profits based on population data.
 
+
 ## Certificate
-[Certificate](Machine Learning Specialisation.pdf)
+![Certificate](MLSpecialisation.png)
