@@ -1,4 +1,4 @@
-# Machine-Learning-Specialization
+# Machine-Learning-Projects
 ## Content 
 Assignment 1  - [Neural Network-Based Content Filtering for Movie Recommendations]()
   - Summary: Utilized a neural network for content-based filtering in building a movie recommender system using the MovieLens ml-latest-small dataset. The dataset, focusing on movies from 2000 onwards and popular genres, comprises 397 users, 847 movies, and 25,521 ratings.Summary: Utilized a neural network for content-based filtering in building a movie recommender system using the MovieLens ml-latest-small dataset. The dataset, focusing on movies from 2000 onwards and popular genres, comprises 397 users, 847 movies, and 25,521 ratings.
